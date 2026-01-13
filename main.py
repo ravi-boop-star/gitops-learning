@@ -9,3 +9,4 @@ print("It demonstrates basic print functionality.")
 
 ## Git jumpstart
 print("Hello world")
+print("This is a sample Python script...")
